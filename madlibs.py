@@ -10,7 +10,7 @@ adjectivefour = input("Enter a adjective: ")
 nountwo = input("Enter a noun: ")
 nounthree = input("Enter a noun: ")
 nounfour = input("Enter a noun: ")
-console.log(series + " is the " + str(adjective) + " Series ever." + 
+print(series + " is the " + str(adjective) + " Series ever." + 
 " The main character is " + str(person) + ", the plot was" + str(adjectivetwo) + "," + 
 " and the " + str(noun) + " was very fun to look at." + 
 " I would " + str(verb) + " this series if I had the chance." + 
